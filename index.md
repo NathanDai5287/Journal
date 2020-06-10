@@ -1,5 +1,6 @@
 # Research Journal
 ## Table of Contents
+
 |Date|Title|Page|
 |--|--|--|
 |5/23/20|[Selecting and Refining Research Topic: Exploring Past Projects](#selecting-and-refining-research-topic-exploring-past-projects)|3|
