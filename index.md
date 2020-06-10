@@ -2,7 +2,7 @@
 ## Table of Contents
 
 |Date|Title|Page|
-|--|--|--|
+|:--|:--|--|
 |5/23/20|[Selecting and Refining Research Topic: Exploring Past Projects](#selecting-and-refining-research-topic-exploring-past-projects)|3|
 |5/31/20|[Choosing a Topic](#choosing-a-topic)|4|
 |6/1/20|[Background Research](#background-research)|5|
