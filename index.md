@@ -99,7 +99,7 @@ I will look at common air pollutants and see if COVID-19 has affected them at al
 
 |Pollutant|Source|
 |--|--|
-|lead|vehicular emissions, industrial sources|
+|lead|leaded fuels, ore processing|
 |sulfur dioxide|fossil fuels|
 |PM<sub>2.5</sub>|energy production, natural sources|
 |ozone|vehicular emissions|
